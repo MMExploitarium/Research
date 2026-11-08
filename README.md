@@ -1,4 +1,5 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# MMExploitarium
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+A combined archive of our public proof-of-concept and vulnerability research writeups.
+
+Each project folder includes a README.md, Proof-of-Concept files, and any supporting materials needed to understand the research.
